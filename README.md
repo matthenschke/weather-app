@@ -1,8 +1,9 @@
+An application that fetches the weather conditions for a certain city, couuntry using the [OpenWeatherMapAPI](https://openweathermap.org/api)<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md).<br>
-An application that fetches the weather conditions for a certain city, couuntry using the [OpenWeatherMapAPI](https://openweathermap.org/api)<br>
+
 
 ## Table of Contents
 
