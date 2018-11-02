@@ -1,4 +1,4 @@
-An application that fetches the weather conditions for a certain city, couuntry using the [OpenWeatherMapAPI](https://openweathermap.org/api)<br>
+An application that fetches the weather conditions for a certain city, country using the [OpenWeatherMapAPI](https://openweathermap.org/api)<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
