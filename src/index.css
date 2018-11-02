@@ -1,0 +1,19 @@
+
+
+/* CSS for index.html */
+
+@import url('https://fonts.googleapis.com/css?family=Spicy+Rice');
+body {
+  background : url("./img/background.jpg") no-repeat center center fixed, linear-gradient(to right,black, white);
+  background-size : auto, cover;
+  margin: 0;
+  padding: 0;
+  font-family: 'Spicy Rice', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
